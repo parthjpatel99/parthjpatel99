@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on developing beautifull and responsive Android Apps.
+- - 🌱 I’m currently learning Android app development in Kotlin, using ELK (Elasticsearch, logstash, Kibana) stack.
+- 📫 How to reach me: parth8199@gmail.com
