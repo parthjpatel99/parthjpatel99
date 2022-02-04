@@ -3,7 +3,8 @@
 I'm Parth J Patel
 =============
 
-## A Grad student majoring in Computer Engineering actively looking for software engineers positions (Full-time and Internships)
+## A Grad student majoring in Computer Engineering
+#  Actively looking for software engineering positions (Full-time and Internship)
 
 ### Skills
 
@@ -18,7 +19,7 @@ I'm Parth J Patel
 - Working on my personal website
 
 ### Reach out to me at:
-[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parthjpatel99//)](https://www.linkedin.com/in/parthjpatel99//) [![Gmail Badge](https://img.shields.io/badge/-parth8199@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parth8199@gmail.com)](mailto:parth8199@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Parth Patel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parthjpatel99//)](https://www.linkedin.com/in/parthjpatel99//) [![Gmail Badge](https://img.shields.io/badge/-parth8199@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parth8199@gmail.com)](mailto:parth8199@gmail.com) [![Gmail Badge](https://img.shields.io/badge/-parthjanakbhai.patel@stonybrook.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parthjanakbhai.patel@stonybrook.edu)](mailto:parthjanakbhai.patel@stonybrook.edu)
 
 
 
