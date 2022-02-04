@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Parth J Patel
+I'm Parth Patel
 =============
 
 ## A Grad student majoring in Computer Engineering
