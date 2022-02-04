@@ -1,8 +1,29 @@
 ### Hi there 👋
 
-<!--
-**parthjpatel99/parthjpatel99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Parth J Patel
+=============
 
+## A Grad student majoring in Computer Engineering actively looking for software engineers positions (Full-time and Internships)
+
+### Skills
+
+- Python, JavaScript, Kotlin Java and other languages
+- Docker, ELK (Elasticsearch, Logstash, Kibana) stack 
+- MERN stack (MongoDB, Express, React, Node.js)
+
+### Ongoing Projects
+
+- Ingesting realtime data into Elasticsearch using Logstash and visualizing using Kibana.
+- Android app development in Kotlin
+- Working on my personal website
+
+### Reach out to me at:
+[![Linkedin Badge](https://img.shields.io/badge/-haanyali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parthjpatel99//)](https://www.linkedin.com/in/parthjpatel99//) [![Gmail Badge](https://img.shields.io/badge/-parth8199@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:parth8199@gmail.com)](mailto:parth8199@gmail.com)
+
+
+
+<!--
+**rohitkg98/rohitkg98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,6 +35,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on developing beautiful and responsive Android Apps.
-- 🌱 I’m currently learning Android app development in Kotlin, using ELK (Elasticsearch, logstash, Kibana) stack.
-- 📫 How to reach me: parth8199@gmail.com
