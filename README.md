@@ -3,7 +3,7 @@
 I'm Parth Patel
 =============
 
-## A Grad student majoring in Computer Engineering
+## Grad student majoring in Computer Engineering
 ####  Actively looking for software engineering positions (Full-time and Internship)
 
 ### Skills
