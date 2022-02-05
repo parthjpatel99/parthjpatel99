@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Parth Patel
+I'm [Parth Patel](https://parth-portfolio-kappa.vercel.app/)
 =============
 
 ## Grad student majoring in Computer Engineering
