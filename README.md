@@ -8,7 +8,7 @@ I'm [Parth Patel](https://parth-portfolio-kappa.vercel.app/)
 
 ### Skills
 
-- Python, JavaScript, Kotlin Java and other languages
+- Python, JavaScript, Kotlin, Java and other languages
 - Docker, ELK (Elasticsearch, Logstash, Kibana) stack 
 - MERN stack (MongoDB, Express, React, Node.js)
 
