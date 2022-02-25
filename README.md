@@ -14,8 +14,8 @@ I'm [Parth Patel](https://parth-portfolio-kappa.vercel.app/)
 
 ### Ongoing Projects
 
-- Ingesting realtime data into Elasticsearch using Logstash and visualizing using Kibana.
 - Android app development in Kotlin
+- Ingesting realtime data into Elasticsearch using Logstash and visualizing using Kibana.
 - Working on my personal website
 
 ### Reach out to me at:
