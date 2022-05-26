@@ -4,7 +4,7 @@ I'm [Parth Patel](https://parth-portfolio-kappa.vercel.app/)
 =============
 
 ## Grad student majoring in Computer Engineering
-####  Actively looking for software engineering positions (Full-time and Internship)
+####  Actively looking for full-time software engineering positions 
 
 ### Skills
 
