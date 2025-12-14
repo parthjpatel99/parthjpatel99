@@ -31,9 +31,9 @@ While much of my production code is proprietary, here are the architectural chal
 
 ### 📊 GitHub Stats
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=parthjpatel99&show_icons=true&hide_border=true&theme=minimal" alt="Parth's GitHub Stats" />
-</p>
+![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthjpatel99&show_icons=true&theme=github_dark&hide=stars&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthjpatel99&layout=compact&theme=github_dark)
 
 ---
 
