@@ -1,82 +1,41 @@
-# 👋 Hi, I'm Parth Janakbhai Patel
+# Hi, I'm Parth Patel.
 
-**Software Engineer**
+### Software Engineer | Distributed Systems & Product Engineering
 
-📍 Based in Tucson, AZ  
-📫 parth8199@gmail.com |
-🔗 [LinkedIn](https://www.linkedin.com/in/parthjpatel99/) | [GitHub](https://github.com/parthjpatel99)
+I am a backend-focused Software Engineer specializing in building **mission-critical distributed systems** and **high-scale product features**. Currently, I engineer real-time microservices for autonomous mining fleets at **Komatsu**, and previously built features for **200M+ users** at **Evernote**.
 
----
-
-## 💼 About Me
-
-I'm a backend-focused software engineer passionate about building scalable microservices, geospatial systems, and automation pipelines. Currently, I work at **Komatsu** leading modern backend solutions that support autonomous mining trucks and mission-critical systems.
-
-My experience spans cloud-native development, distributed systems, geospatial platforms, and full-stack product features shipped at scale. I’m also a strong believer in clean architecture, CI/CD, leveraging AI for rapid outcomes while writing testable, maintainable code.
+My engineering philosophy centers on **reliability, observability, and developer velocity**.
 
 ---
 
-## 🚀 Tech Stack
+### 🛠 Tech Stack
 
-**Languages:** Kotlin, Java, Python, C#, TypeScript, C++, SQL, Bash  
-**Frameworks & Backend:** Spring Boot, Spring Security, Hibernate, Node.js, REST APIs, Microservices, Nginx  
-**Cloud & DevOps:** Docker, Azure, GCP, GitHub Actions, CI/CD Pipelines, Maven, Gradle  
-**Database & GIS:** PostgreSQL, PostGIS, GeoServer, Database Optimization  
-**Auth & Security:** OAuth2, SAML2, JWT, Keycloak  
-**Testing:** JUnit, Mockito, Performance & Automated Testing
+**Backend & Systems**
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
----
-
-## 🛠️ Experience
-
-### 🏢 **Komatsu** — *Software Engineer*  
-📍 Tucson, AZ | 🗓️ Feb 2023 – Present  
-- Developed Kotlin-based Spring Boot microservices to support 500+ autonomous trucks  
-- Built secure OAuth2/Keycloak integration for external systems  
-- Optimized PostGIS and GeoServer stack for real-time mapping performance  
-- Automated deployments using Docker and custom Bash CLI tools  
-- Refactored legacy C#/.NET adapter for 40% faster data processing  
-- Revived and stabilized dormant API project using Azure CI/CD pipelines  
-
-### 📝 **Evernote** — *Software Engineer Intern*  
-📍 Remote | 🗓️ Jun 2022 – Aug 2022  
-- Implemented recurring task logic using TypeScript, React, GraphQL  
-- Built reusable task-filtering component across platforms  
-- Improved performance and UX in native iOS date pickers  
-
-### 🛰️ **ISRO – Space Applications Center** — *Research Intern*  
-📍 Ahmedabad, India | 🗓️ Dec 2020 – Apr 2021  
-- Built deep learning models for oceanic eddy detection from satellite data  
-- Achieved 92% detection and 98% classification accuracy using Mask R-CNN & YOLO  
-- Designed OpenCV-based preprocessing pipelines to analyze remote sensing imagery  
+**Infrastructure & DevOps**
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Bash](https://img.shields.io/badge/gnu%20bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white)
 
 ---
 
-## 🎓 Education
+### 🔭 Engineering Highlights
 
-**Stony Brook University**  
-Master of Science in Computer Engineering  
-📍 Stony Brook, NY | 🎓 Dec 2022
+While much of my production code is proprietary, here are the architectural challenges I solve:
 
----
-
-## 📜 Certifications
-
-- **CodePath** – Professional Android Development (2022)
+- **Real-Time Synchronization:** Architecting low-latency microservices (Kotlin/Spring) to sync telemetry across 500+ autonomous vehicles.
+- **Legacy Decomposition:** Decoupling monolithic C# adapters into asynchronous event-driven services to eliminate UI blocking.
+- **Scale:** Designing state management logic (TypeScript/GraphQL) deployed to 200M+ users for complex recurring task features.
+- **DevEx:** Scripting zero-error Docker/Bash deployment pipelines that reduce onboarding time by 75%.
 
 ---
 
-## 📈 GitHub Stats
+### 📊 GitHub Stats
 
-![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthjpatel99&show_icons=true&theme=github_dark&hide=stars&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthjpatel99&layout=compact&theme=github_dark)
-
----
-
-## 📫 Let's Connect
-
-I'm always open to connecting with fellow developers, researchers, and builders.  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/parthjpatel99/) or drop me a line at **parth8199@gmail.com**.
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=parthjpatel99&show_icons=true&hide_border=true&theme=minimal" alt="Parth's GitHub Stats" />
+</p>
 
 ---
+
+### 📫 Connect
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/parthjpatel99/)
