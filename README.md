@@ -1,4 +1,4 @@
-# Hi, I'm Parth Patel.
+# Hi, I'm [Parth Patel](parthjpatel.me "My personal website")
 
 ### Software Engineer | Distributed Systems & Product Engineering
 
