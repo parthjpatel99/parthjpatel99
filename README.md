@@ -30,8 +30,16 @@ While much of my production code is proprietary, here are the architectural chal
 ---
 
 ### 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=parthjpatel99&theme=dark)
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=parthjpatel99&show_icons=true&theme=github_dark&hide=stars&cache_seconds=86400"
+    alt="Parth's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parthjpatel99&layout=compact&theme=github_dark&cache_seconds=86400"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
